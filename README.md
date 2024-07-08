@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://watches-fv.netlify.app.app" target="_blank">
+    <a href="https://watches-fv.netlify.app" target="_blank">
       <img src="design/preview.webp" alt="Project Banner">
     </a>
   <h3 align="center">Watch Shop</h3>
